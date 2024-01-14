@@ -124,4 +124,4 @@ API endpoints have rate limiting to prevent abuse:
 - Delete Item: 5 requests per minute
 
 ## Additional Notes
-- The application is using an in-memory data structure to store items. In a production environment, consider using a database.
+- The application is using an in-memory data structure to store items.
